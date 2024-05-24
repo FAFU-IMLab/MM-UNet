@@ -22,8 +22,8 @@ abstract = {Brain tumor segmentation is an essential issue in medical image segm
 
 ## 1. Environment
 
-- Please prepare an environment with Ubuntu 16.04, with Python 3.6.5, PyTorch 1.4.0, and CUDA 10.1
-- others: einops 0.4.1, hausdorff 0.2.6, imageio 2.15.0, pandas 1.1.5 and Pillow 0.4.0
+- Please prepare an environment with Ubuntu 16.04, Python 3.6.5, PyTorch 1.4.0, and CUDA 10.1
+- Others: einops 0.4.1, hausdorff 0.2.6, imageio 2.15.0, pandas 1.1.5 and Pillow 0.4.0
 
 ## 2. Dataset
 Brats2020 and Brats2019 Download link:(https://www.med.upenn.edu/cbica/brats/)
