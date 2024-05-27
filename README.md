@@ -3,8 +3,8 @@ This repository contains the code for MM-UNet introduced in the following paper 
 Chih-Wei Lin* and Zhongsheng Chen  (* Corresponding Author)
 
 # Citation
-```bash
 If you find  MM-UNet useful in your research, please consider citing:
+```bash
 @article{LIN2024108591,
 title = {MM-UNet: A novel cross-attention mechanism between modules and scales for brain tumor segmentation},
 journal = {Engineering Applications of Artificial Intelligence},
